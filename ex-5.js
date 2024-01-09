@@ -4,5 +4,5 @@ let companyName = "TechUp";
 // Start coding here
 for (let i = 0; i < companyName.length; i = i + 1)
 {
-console.log(`Numbers ${i} character is ${companyName[i]}`)
+console.log(`Numbers ${i+1} character is ${companyName[i]}`)
 };
